@@ -17,6 +17,6 @@ public:
                 res += cost[i][0];
             }
         }
-        return res;
+        return res; 
     }
 };
