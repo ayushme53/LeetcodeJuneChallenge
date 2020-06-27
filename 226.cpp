@@ -26,4 +26,4 @@ public:
         root->right = temp;
         return root;
     }
-};
+}; 
